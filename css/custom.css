@@ -179,7 +179,7 @@ header .header-content .header-content-inner p {
 	}
 
 .page-footer .contact {
-	padding: 100px 0;
+	padding: 50px 0;
 	background-color: yellowgreen;
 	color: #fff;
 	}
@@ -439,4 +439,8 @@ img::-moz-selection {
 
 .bg-primary {
     background-color: yellowgreen;
+}
+
+.littlebit {
+    font-size: 18px;
 }
